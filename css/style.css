@@ -40,7 +40,7 @@ body {
   top: 0;
   height: 1.0;
   width: 100%;
-  background: #3165ae;
+  background: linear-gradient(90deg, rgba(42,109,194,1) 0%, rgba(35,92,171,1) 27%, rgba(13,53,124,1) 100%);
   z-index: 1000; 
 }
 .block1 {

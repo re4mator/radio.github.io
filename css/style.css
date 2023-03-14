@@ -156,6 +156,6 @@ body {
 }
 /* Handle */
 ::-webkit-scrollbar-thumb {
-    background: linear-gradient(180deg, #00c6fb, #005bea);
+    background: linear-gradient(90deg, rgba(42,109,194,1) 0%, rgba(35,92,171,1) 27%, rgba(13,53,124,1) 100%);
     border-radius: 10px;
 }

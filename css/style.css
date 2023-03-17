@@ -49,6 +49,12 @@ a:visited {
 .hidden {
   display: none;
 }
+#di-header {
+	font-family: 'Oswald', Arial, sans-serif;
+	color: #1E90FF;
+	font-size: 2.1em;
+	font-weight: normal;
+}
 .container {
 	max-width: 100rem;
 	flex: 0 0 auto;

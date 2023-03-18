@@ -8,13 +8,13 @@
 		url('./fonts/roboto_bold_condensed.svg#roboto_bold_condensed') format('svg'); /* Chrome < 4, Legacy iOS */
 }
 @font-face {
-    font-family: 'Oswald';
-    src: url('./fonts/Oswald.eot');
-    src: url('./fonts/Oswald.eot?#iefix') format('embedded-opentype'),
-	    url('./fonts/Oswald.woff2') format('woff2'),
-	    url('./fonts/Oswald.woff') format('woff'),
-	    url('./fonts/Oswald.ttf') format('truetype'),
-            url('./fonts/Oswald.svg#Oswald') format('svg');
+	font-family: 'Molot';
+	src: url('../fonts/molot.eot'); /* IE 9 Compatibility Mode */
+	src: url('../fonts/molot.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('../fonts/molot.woff2') format('woff2'), /* Super Modern Browsers */
+		url('../fonts/molot.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('../fonts/molot.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('../fonts/molot.svg#molot') format('svg'); /* Chrome < 4, Legacy iOS */
 }
 :root {
 	font-size: 10px;

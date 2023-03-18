@@ -146,6 +146,10 @@ a:visited {
 #color-ussr {
     border: 2px solid #DC143C !important;
 	border-radius: 5px !important;
+	font-family: 'Molot';
+	font-size: 2.0em;
+	font-weight: normal;
+	font-stretch: ultra-expanded;
 }
 
 .portfolio-menu ul {
